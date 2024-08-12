@@ -1,0 +1,42 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.wrapperHeader{
+    display: flex;
+
+    .searchBar{
+        width: 55%;
+        border-radius: 50;
+        height: 5vh;
+    }
+
+    .darkMode{
+        display: flex;
+
+        .light, .dark{
+            width: 55%;
+            height: 3vh;
+        }
+    
+        .light{
+            background-color: white;
+        }
+    
+        .dark{
+            background-color: black;
+            color: white;
+        }
+    }
+
+    .profile{
+        height: 5vh;
+        width: 20%;
+
+        .PP{
+            width: 20%;
+        }
+    }
+}
