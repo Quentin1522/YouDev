@@ -1,12 +1,10 @@
 import React from 'react';
-import "../assets/main.scss";
 import PP from "../assets/profile-pic.png"
 
 const Header: React.FC = () => {
     return (
         <div className='wrapperHeader'>
-            <input className='searchBar' type="search" placeholder='Rechercher'></input>
-            <div className='darkMode'>
+            <div className='darkMod'>
                 <button className='light'>Mode jour</button>
                 <button className='dark'>Mode nuit</button>
             </div>
