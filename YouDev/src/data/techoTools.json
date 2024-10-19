@@ -1,0 +1,67 @@
+[
+    {
+        "id": "0",
+        "title": "HTML",
+        "cover": "/src/assets/HTML.png"
+    },
+
+    {
+        "id": "1",
+        "title": "CSS",
+        "cover": "/src/assets/css.png"
+    },
+
+    {
+        "id": "2",
+        "title": "SCSS/SASS",
+        "cover": "/src/assets/scss.png"
+    },
+
+    {
+        "id": "3",
+        "title": "JAVASCRIPT",
+        "cover": "/src/assets/js.png"
+    },
+
+    {
+        "id": "4",
+        "title": "REACT",
+        "cover": "/src/assets/react.png"
+    },
+
+    {
+        "id": "5",
+        "title": "REDUX",
+        "cover": "/src/assets/redux.png"
+    },
+
+    {
+        "id": "6",
+        "title": "VITE",
+        "cover": "/src/assets/vite.png"
+    },
+
+    {
+        "id": "7",
+        "title": "NPM",
+        "cover": "/src/assets/npm.png"
+    },
+
+    {
+        "id": "8",
+        "title": "NOTION",
+        "cover": "/src/assets/notion.png"
+    },
+
+    {
+        "id": "9",
+        "title": "GITHUB",
+        "cover": "/src/assets/github.png"
+    },
+
+    {
+        "id": "10",
+        "title": "FIGMA",
+        "cover": "/src/assets/figma.png"
+    }
+]

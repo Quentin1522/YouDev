@@ -3,7 +3,6 @@
         "id": "0",
         "title": "Booki",
         "cover": "/src/assets/booki.png",
-        "categories": "études",
         "link": "https://quentin1522.github.io/Projet-3-booki/",
         "description": "Créer la page d'accueil d'une agence de voyage en utilisant HTML et CSS.\nCe projet a pour but d'intégrer l'interface responsive du site.\nJ'avais à disposition une maquette figma avec toutes les tailles d'écrans (mobile, tablette, desktop).\nIl a également été demandé d'avoir aucune erreur dans le validateur de code W3C."
       },      
@@ -11,7 +10,6 @@
         "id": "1",
         "title": "Oh My Food",
         "cover": "/src/assets/ohmyfood.png",
-        "categories": "études",
         "link": "https://quentin1522.github.io/Projet-4-OhMyFood/",
             "description": "Ce projet a pour but de travailler sur l'interface mobile-first du site d'une start-up.\nOn utilise le préprocesseur Sass, nous devons aussi implémenter des animations CSS.\nNous devons intégrer une maquette en mobile-first. On dispose de la maquette Figma avec toutes les tailles d'écrans (mobile, tablette, desktop)."
           },          
@@ -19,7 +17,6 @@
         "id": "2",
         "title": "Print-It",
         "cover": "/src/assets/printit.png",
-        "categories": "études",
         "link": "https://quentin1522.github.io/Projet-5-Print-it/",
         "description": "Ce projet consiste à dynamiser le site statique d'une imprimerie en y ajoutant un carrousel interactif en JavaScript. Il permet de découvrir les bases du langage JavaScript et d'apprendre à intégrer des fonctionnalités dynamiques pour améliorer l'expérience utilisateur. L'objectif est d'ajouter un carrousel via JavaScript tout en modifiant le code HTML et CSS existant. Visual Studio Code sera utilisé pour le développement, et GitHub pour la gestion des versions. Ce projet offre une introduction à la programmation web avec JavaScript."
     },
@@ -27,7 +24,6 @@
         "id": "3",
         "title": "Sophie Bluel",
         "cover": "/src/assets/sophieBluel.png",
-        "categories": "études",
         "link": "https://github.com/Quentin1522/Projet-6-Sophie-Bluel",
         "pictures":[
             "/src/assets/sophieBluel.png",
@@ -41,7 +37,6 @@
         "id": "4",
         "title": "Kasa",
         "cover": "/src/assets/Kasa.png",
-        "categories": "études",
         "link": "https://quentin1522.github.io/Projet-8-Kasa/",
         "description": "Dans ce projet, vous allez implémenter le front-end d’une application en utilisant React et React Router pour créer une expérience utilisateur moderne et réactive. Vous travaillerez sur la logique de présentation des données et les composants React, une bibliothèque JavaScript populaire pour la création d'interfaces utilisateur. Vous utiliserez React Router pour configurer la navigation entre les différentes pages de l'application, vous permettant de comprendre comment gérer efficacement le routage dans une application web moderne. Le projet se concentrera exclusivement sur le développement front-end, en se basant sur les maquettes fournies et en utilisant des données simulées extraites d'un fichier JSON. Vous commencerez avec Create React App pour simplifier la configuration initiale et utiliserez Node.js pour exécuter du code JavaScript en dehors du navigateur."
     },
@@ -49,7 +44,6 @@
         "id": "5",
         "title": "Nina Carducci",
         "cover": "/src/assets/nina.png",
-        "categories": "études",
         "link": "https://github.com/Quentin1522/Projet-9-Nina-Carducci/",
         "pictures":[
             "/src/assets/nina.png",
@@ -63,7 +57,6 @@
         "id": "6",
         "title": "Debug une application React",
         "cover": "/src/assets/events.png",
-        "categories": "études",
         "link": "https://github.com/Quentin1522/Projet-10-Debug-une-application-React",
         "pictures":[
             "/src/assets/events.png",
@@ -77,7 +70,6 @@
         "id": "7",
         "title": "Argent Bank",
         "cover": "/src/assets/argentBank.png",
-        "categories": "études",
         "link": "https://github.com/Quentin1522/Projet-11-ArgentBank",
         "pictures":[
             "/src/assets/argentBank.png",
@@ -86,5 +78,13 @@
             "/src/assets/argentBank4.png"
         ],
             "description": "Dans ce projet, vous travaillerez sur le développement front-end d’une application bancaire en utilisant React et Redux pour créer une expérience utilisateur dynamique et réactive. Vous intégrerez le front-end avec le back-end via des appels API REST, assurant une communication fluide entre le client et le serveur. React sera utilisé pour développer une interface utilisateur complète et responsive, tandis que Redux permettra de gérer l'état global de l'application. Vous utiliserez Swagger pour définir les points d'accès de l'API et modéliser les interactions avec les données des transactions. Node.js sera utilisé pour exécuter du code JavaScript côté serveur, offrant une expérience pratique de la gestion d'une application full-stack."
+    },
+
+    {
+        "id": "8",
+        "title": "Premier Portfolio",
+        "cover": "/src/assets/FirstPortofolio.png",
+        "link": "https://quentin1522.github.io/Portfolio/",
+            "description": "Premier portfolio réalisé dans le cadre d'un projet d'étude."
     }
 ]

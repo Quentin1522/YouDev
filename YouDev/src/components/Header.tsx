@@ -1,5 +1,4 @@
 import React from 'react';
-import PP from "../assets/profile-pic.png"
 
 const Header: React.FC = () => {
     return (
@@ -8,8 +7,9 @@ const Header: React.FC = () => {
                 <button className='light'>Mode jour</button>
                 <button className='dark'>Mode nuit</button>
             </div>
-            <div className='profile'>
-                <img className='PP' src={PP} alt='photo de profile'></img>
+            <div className='langage'>
+                <button className='FR'>🇫🇷 Français</button>
+                <button className='ENG'>🇺🇸 English</button>
             </div>
         </div>
     )

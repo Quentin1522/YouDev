@@ -58,7 +58,7 @@ const Modal: React.FC<{ item: ItemDetails; onClose: () => void }> = ({ item, onC
     );
 };
 
-const Items: React.FC<{ data: ItemDetails[] }> = ({ data }) => {
+const Items: React.FC <{ data : ItemDetails[] }> = ({ data }) => {
     const [selectedItem, setSelectedItem] = useState<ItemDetails | null>(null);
 
     const openModal = (item: ItemDetails) => {
